@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-luka%40sunny--stack.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luka@sunny-stack.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@strawhatluka-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/strawhatluka)
 
-![Profile Views](https://komarev.com/ghpvc/?username=lukadfagundes&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=strawhatluka&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -76,7 +76,7 @@ I'm a **self-taught Full-Stack Developer** with 2 years of experience building s
 
 ## 🚀 Featured Projects
 
-### [Bwaincell](https://github.com/lukadfagundes/bwaincell) - Unified Productivity Platform
+### [Bwaincell](https://github.com/strawhatluka/bwaincell) - Unified Productivity Platform
 A comprehensive monorepo productivity platform with **Discord bot** (46+ commands), **REST API** (39 endpoints), and **Progressive Web App** for task management, reminders, notes, budgets, and scheduling.
 
 **Tech:** TypeScript, Node.js, Discord.js, Express, PostgreSQL, Next.js, Docker, OAuth 2.0
@@ -84,7 +84,7 @@ A comprehensive monorepo productivity platform with **Discord bot** (46+ command
 
 ---
 
-### [Trinity Method SDK](https://github.com/lukadfagundes/trinity-method-sdk) - AI Development Framework
+### [Trinity Method SDK](https://github.com/strawhatluka/trinity-method-sdk) - AI Development Framework
 A systematic development methodology for Claude Code featuring **19 specialized AI agents** that enforce investigation-first development with quality gates and automated workflows.
 
 **Tech:** TypeScript, GitHub Actions, Jest, Multi-language support (Node.js, Python, Rust, Go, Flutter)
@@ -92,7 +92,7 @@ A systematic development methodology for Claude Code featuring **19 specialized 
 
 ---
 
-### [Spotify Rainmeter Skin](https://github.com/lukadfagundes/spotify-skin-rainmeter) - Desktop Widget
+### [Spotify Rainmeter Skin](https://github.com/strawhatluka/spotify-skin-rainmeter) - Desktop Widget
 Lightweight desktop widget with real-time Spotify playback controls, OAuth 2.0 token management, and automatic album artwork caching.
 
 **Tech:** Rainmeter (INI), Lua, Python, Spotify Web API, OAuth 2.0
@@ -117,7 +117,7 @@ I'm interested in opportunities where I can:
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lukadfagundes&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=strawhatluka&theme=dracula)
 
 </div>
 
@@ -125,7 +125,7 @@ I'm interested in opportunities where I can:
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lukadfagundes&theme=dracula&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=strawhatluka&theme=dracula&hide_border=true)
 
 ---
 
@@ -133,8 +133,8 @@ I'm interested in opportunities where I can:
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukadfagundes&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lukadfagundes&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=strawhatluka&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=strawhatluka&theme=dracula)
 
 </div>
 
@@ -144,7 +144,7 @@ I'm interested in opportunities where I can:
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lukadfagundes&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strawhatluka&theme=dracula)
 
 </div>
 
