@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6.0.2
+
+      - uses: actions/setup-node@v6.3.0
+        with:
+          node-version: '22'
+
+      - run: npm ci
+
+      - name: Update README
+        run: node scripts/update-readme.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v7.1.0
+        with:
+          commit_message: "chore: update readme [skip ci]"
+          file_pattern: README.md

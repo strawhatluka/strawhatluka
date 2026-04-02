@@ -1,0 +1,12 @@
+{
+  "name": "strawhatluka",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-readme": "node scripts/update-readme.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "22.0.1"
+  }
+}
