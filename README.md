@@ -40,7 +40,7 @@ Tech: TypeScript · CSS · Dockerfile
 ## 🔭 Currently Building
 
 <!-- CURRENTLY_BUILDING:START -->
-Currently building: [hytale-server-manager](https://github.com/strawhatluka/hytale-server-manager) — Manage your Hytale dedicated server without touching config files or the command line. HSM is a free, open-source desktop app that wraps your server with a clean UI for everything you need. > (last pushed: April 2, 2026)
+Currently building: [cola-records](https://github.com/strawhatluka/cola-records) — No description (last pushed: April 9, 2026)
 <!-- CURRENTLY_BUILDING:END -->
 
 ---
