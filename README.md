@@ -40,7 +40,7 @@ Tech: TypeScript · CSS · Dockerfile
 ## 🔭 Currently Building
 
 <!-- CURRENTLY_BUILDING:START -->
-Currently building: [cola-records](https://github.com/strawhatluka/cola-records) — No description (last pushed: April 9, 2026)
+Currently building: [Josh](https://github.com/strawhatluka/Josh) — I dedicate this to my brother, who lost his fight on 12/07/2025. You will be missed greatly, the world shines less bright without you in it.  (last pushed: April 19, 2026)
 <!-- CURRENTLY_BUILDING:END -->
 
 ---
