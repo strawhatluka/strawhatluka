@@ -32,7 +32,7 @@ Add job listings with AI-powered resume tailoring
 
 → [Merged PR #2788](https://github.com/amruthpillai/reactive-resume/pull/2788)
 
-Tech: TypeScript · CSS · JavaScript
+Tech: TypeScript · CSS · PLpgSQL
 <!-- OSS_CONTRIBUTIONS:END -->
 
 ---
