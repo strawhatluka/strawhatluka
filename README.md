@@ -30,7 +30,7 @@ Tech: JavaScript · TypeScript · Shell
 
 Add job listings with AI-powered resume tailoring
 
-→ [Merged PR #2788](https://github.com/amruthpillai/reactive-resume/pull/2788)
+→ [Merged PR #2788](https://github.com/reactive-resume/reactive-resume/pull/2788)
 
 Tech: TypeScript · CSS · PLpgSQL
 <!-- OSS_CONTRIBUTIONS:END -->
